@@ -1,5 +1,5 @@
 # Jimmy H. Phong, MPH
-Hi, I'm Jimmy (he/him)—a software engineer at ReactionTime working on a [Developer Tool](https://github.com/oslabs-beta/ReactionTime) to help engineers working with React's newest Concurrent Mode features. Previously worked at NASA Ames Research Center 🚀 and Disneyland Parks & Resorts 🏰, where I used code to ensure improve workflow and ensure workers are in a welcoming, safe, and productive environment. I currently live in sunnyside Los Angeles, CA and am a native to the area. I'm a public health specialist, nerd/geek/scientist, pet adoption advocate, opera fanatic and a board game afiocinado.
+Hi, I'm Jimmy (he/him)—a software engineer at ReactionTime working on a [Developer Tool](https://github.com/oslabs-beta/ReactionTime) to help engineers working with React's newest Concurrent Mode features. Previously worked at NASA Ames Research Center 🚀  and Disneyland Parks & Resorts 🏰, where I used code to improve workflow and ensure workers are in a welcoming, safe, and productive environment. I currently live in sunnyside Los Angeles, CA and am a native to the area. I'm a public health specialist, nerd/geek/scientist, pet adoption advocate, opera fanatic and a board game afiocinado.
 
 ## My values
 🌟 Expression as authentic self<br>
@@ -8,4 +8,4 @@ Hi, I'm Jimmy (he/him)—a software engineer at ReactionTime working on a [Devel
 🚀 Elevate the underrepresented
 
 ## How I work
-My motivations is to sharpen the axe in the honor of moving quickly when it's needed and matters most. A checklist paired with paper-drawn wireframes are an absolute favorite! ✅ 
+My motivation is to sharpen the axe in the honor of moving quickly when it's needed and matters most. A checklist paired with paper-drawn wireframes are an absolute favorite to get those neutrons firing! ✅ 

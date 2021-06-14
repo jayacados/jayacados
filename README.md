@@ -11,7 +11,7 @@
 
 - 📄 More about my experiences [jayacados.com](https://www.jayacados.com/)
 
-- ⚡ Fun fact **I'm an epidemiology nerd, an amateur calligraphist, a pet adoption advocate, and a board game afiocinado.**
+- ⚡ Fun fact **I'm an epidemiologist, an amateur calligraphist, a pet adoption advocate, and a board game afiocinado.**
 
 
 <h3 align="left">Languages and Tools:</h3>

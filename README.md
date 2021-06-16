@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy Phong</h1>
-<h3 align="center">A passionate frontend developer from sunny side Los Angeles</h3>
+<h3 align="center">A passionate software engineer from sunny side Los Angeles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayacados&label=Profile%20views&color=0e75b6&style=flat" alt="jayacados" /> </p>
 

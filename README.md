@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayacados&label=Profile%20views&color=0e75b6&style=flat" alt="jayacados" /> </p>
 
-- 🔭 I’m currently in the process of learning and building projects **with Solidity & Web3.js**
-
-- 🤝 I’m looking to connect with **more blockchain and frontend developers!**
 
 - 📫 How to reach me **jayacados@gmail.com**
 
